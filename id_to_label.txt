@@ -1,0 +1,14 @@
+Label	Emotion
+0	no emotion / neutral
+1	anger
+2	disgust
+3	fear
+4	happiness
+5	sadness
+6	surprise
+
+Label	Dialogue Act
+1	Inform
+2	Question
+3	Directive
+4	Commissive
